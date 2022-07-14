@@ -9,4 +9,3 @@ a = 10
  puts c #comment
  puts " c= #{c}"
 puts "toi da chinh sua"
-
