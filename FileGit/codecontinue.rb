@@ -8,5 +8,5 @@ a = 10
  c = a+b 
  puts c #comment
  puts " c= #{c}"
-puts "toi da chinh sua"
-puts "chao mung ban den voi buoi phong van ngay hom nay"
+
+puts "chao mung ban den voi buoi phong van ngay hom nay , rat vui"
