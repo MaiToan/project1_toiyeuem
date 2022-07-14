@@ -8,5 +8,5 @@ a = 10
  c = a+b 
  puts c #comment
  puts " c= #{c}"
-
+puts "toi da chinh sua"
 
